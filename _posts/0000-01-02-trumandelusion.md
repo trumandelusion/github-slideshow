@@ -1,7 +1,5 @@
 ---
 layout: slide
-title: "Welcome to my second slide!"
+title: "And here it is"
 ---
-This is some kind of slideshow
----
-Use the left arrow to go back!
+That's all folks! Nothing else to see here

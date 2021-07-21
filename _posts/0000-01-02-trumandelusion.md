@@ -1,7 +1,5 @@
 ---
 layout: slide
-title: "AND HERE IT IS"
----
-I TOLD YOU!
+title: "And here it is"
 ---
 That's all folks! Nothing else to see here
